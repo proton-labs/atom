@@ -1,2 +1,2 @@
 # atom
-Symfony integration CQRS project
+Symfony integration with CQRS project
